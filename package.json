@@ -1,0 +1,11 @@
+{
+  "name": "static-pages-vivek",
+  "version": "1.0.0",
+  "description": "Static pages using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek Mehra",
+  "license": "ISC"
+}
